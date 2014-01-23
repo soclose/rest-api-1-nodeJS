@@ -1,0 +1,11 @@
+{
+	"name"  	: "example_rest_api",
+	"author"	: "nurjalih",
+	"version"	: "21.1.14",
+	"dependencies"	: {
+		"express" 	: "*",
+		"mysql"		: "*",
+		"path"		: "*"
+	}
+
+}
